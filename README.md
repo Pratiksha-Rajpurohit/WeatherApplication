@@ -77,13 +77,6 @@ data class Weather(val main: String)
 data class Main(val temp: Double) 
 ```
 
-# Contributing
-Contributions are welcome! To contribute:
 
-* Fork the repository.
-* Create a new branch (git checkout -b feature-branch).
-* Commit your changes (git commit -m 'Add new feature').
-* Push to the branch (git push origin feature-branch).
-* Open a pull request.
 # Contact
 For any questions or suggestions, please open an issue on GitHub or contact the repository owner at rajpurohitpratiksha123@gmail.com.
