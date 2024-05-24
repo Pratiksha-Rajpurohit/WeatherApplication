@@ -7,12 +7,13 @@ This Weather Application allows users to get real-time weather information for a
 * Easy-to-use interface with a search bar
 
 # ScreenShots
-![Screenshot 2024-05-23 192330](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/2cc24085-1cb2-4fa5-99af-997bcce0671b)
-![Screenshot 2024-05-23 192709](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/62c74d83-4861-412e-829a-ee4450bb7b3a)
-![Screenshot 2024-05-23 192739](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/e4c8ce86-ce74-4338-8363-493b8b1b61a2)
-![Screenshot 2024-05-23 192821](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/f09d90c0-9846-4939-990d-d6c05064fec9)
 ![Screenshot 2024-05-23 193156](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/e75747d7-3f3b-478d-beb8-e1796bb5b077)
 ![Screenshot 2024-05-24 103144](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/03e1b329-d884-46ac-ba6d-bb70c127f288)
+![Screenshot 2024-05-23 192330](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/2cc24085-1cb2-4fa5-99af-997bcce0671b)
+![Screenshot 2024-05-23 192709](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/62c74d83-4861-412e-829a-ee4450bb7b3a)
+![Screenshot 2024-05-23 192821](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/f09d90c0-9846-4939-990d-d6c05064fec9)
+![Screenshot 2024-05-23 192739](https://github.com/Pratiksha-Rajpurohit/WeatherApplication/assets/132194955/e4c8ce86-ce74-4338-8363-493b8b1b61a2)
+
 
   
 # Technologies Used
